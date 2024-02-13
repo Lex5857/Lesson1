@@ -1,0 +1,14 @@
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\bin\Debug\net7.0\Task2.exe
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\bin\Debug\net7.0\Task2.deps.json
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\bin\Debug\net7.0\Task2.dll
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\bin\Debug\net7.0\Task2.pdb
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.dll
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\refint\Task2.dll
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.pdb
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\ref\Task2.dll
