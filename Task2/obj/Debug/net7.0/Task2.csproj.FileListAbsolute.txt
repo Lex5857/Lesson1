@@ -1,0 +1,4 @@
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+E:\Учеба GeekBrains\I четверть\Введение в контроль версий\repository\Lesson1\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
