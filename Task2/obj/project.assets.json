@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Учеба GeekBrains\\I четверть\\Введение в контроль версий\\repository\\Lesson1\\Task2\\Task2.csproj",
+      "projectUniqueName": "E:\\Учеба GeekBrains\\I четверть\\repository\\Introduction_programming_languages\\Lectures\\Lesson1\\Task2\\Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "E:\\Учеба GeekBrains\\I четверть\\Введение в контроль версий\\repository\\Lesson1\\Task2\\Task2.csproj",
+      "projectPath": "E:\\Учеба GeekBrains\\I четверть\\repository\\Introduction_programming_languages\\Lectures\\Lesson1\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "E:\\Учеба GeekBrains\\I четверть\\Введение в контроль версий\\repository\\Lesson1\\Task2\\obj\\",
+      "outputPath": "E:\\Учеба GeekBrains\\I четверть\\repository\\Introduction_programming_languages\\Lectures\\Lesson1\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config"

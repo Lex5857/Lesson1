@@ -33,5 +33,7 @@ int b = 7;
 int c = 3;
 int d = 50;
 
-double result = a * b / (c + d);
+double numinator = a * b;
+int denominator = c + d;
+double result = numinator / denominator;
 Console.WriteLine(result);
